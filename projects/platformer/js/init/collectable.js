@@ -34,6 +34,7 @@
         ////////////////////////////////////////////////////////////////////////
         // ALL YOUR CODE GOES BELOW HERE ///////////////////////////////////////
         collectable.create(type.db, 200, 210, 0.5, 0.5)
+      collectable.create(type.max, 100, 450, 3,);
         // example: 
         collectable.create(type.max, 200, 250, 3,);
         
